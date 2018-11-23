@@ -21,4 +21,4 @@ logger.critical('Pana', 'beka', { error: 'dasda' });
 logger.debug({ tags: ['test', 'test2'] }, 'test');
 logger.devel('Pana', 'beka', { error: 'dasda' });
 
-logger.info({ tags: ['test', 'test2'] }, 'test');
+logger.info({ tags: ['test', 'test2'] }, 'test' );
